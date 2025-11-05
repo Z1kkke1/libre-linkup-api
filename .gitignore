@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Lokální tajnosti
+.env
+
+# macOS / editory
+.DS_Store
+.vscode/
+.idea/
+
+# Logy
+*.log

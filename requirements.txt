@@ -1,0 +1,4 @@
+pylibrelinkup
+python-dotenv
+fastapi
+uvicorn
