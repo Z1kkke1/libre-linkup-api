@@ -133,3 +133,5 @@ def history(hours: int = Query(24, ge=1, le=168)):
     ]
 
     return {"points": data, "hours": hours, "count": len(data)}
+
+
