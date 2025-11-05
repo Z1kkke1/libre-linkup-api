@@ -14,3 +14,15 @@ __pycache__/
 
 # Logy
 *.log
+# taky schovej .env.ini kdybys ho omylem vytvořil/a
+.env.ini
+EOFcat >> .gitignore << 'EOF'
+# taky schovej .env.ini kdybys ho omylem vytvořil/a
+.env.ini
+
+
+cat >> .gitignore << 'EOF'
+# taky schovej .env.ini kdybys ho omylem vytvořil/a
+.env.ini
+# taky schovej .env.ini kdybys ho omylem vytvořil/a
+.env.ini
